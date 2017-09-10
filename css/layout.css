@@ -464,7 +464,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
-    color: #3D3D3D;
+    color: #3D3D3D!important;
 }
 .ie footer .copyright li {
    display: inline;
